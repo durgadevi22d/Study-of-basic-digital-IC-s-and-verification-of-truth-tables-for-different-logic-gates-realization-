@@ -65,13 +65,14 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by: DURGADEVI P
 RegisterNumber:212223100006
 */
+
 Logic symbol & Truthtable
 ![image](https://github.com/durgadevi22d/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149987216/2b2d7aad-5998-4a2e-94e1-eebfbd154a0e)
 
 
 RTL realization
 Output:
-![image](https://github.com/durgadevi22d/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149987216/7b4a14fc-a5c3-42f1-af43-a7ff5c3536d4)
+![image](https://github.com/durgadevi22d/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149987216/4c66a57c-2f9a-4191-aac4-2d4d70754e0b)
 
 
 RTL
